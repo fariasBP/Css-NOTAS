@@ -1,0 +1,11 @@
+/*
+
+	grid-auto-rows >>> controla el espacio de las celdas implictas;
+	grid-auto-columns >>> controla el espacio de las celdas implictas;
+
+	grid-auto-flow>>>
+		- row >>> añade las celdas implicitas en fila. Este es valor por defecto.
+		- column >>> añade las celdar implicitas en columna
+		- dense >>>
+
+*/
